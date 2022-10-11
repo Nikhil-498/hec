@@ -1,1 +1,1 @@
-jhwnasc
+print
